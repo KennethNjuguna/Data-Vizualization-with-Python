@@ -8,7 +8,7 @@ There are three different layers in the architecture of the matplotlib which are
 2. Artist layer
 3. Scripting layer
 
-Backend layer
+# <h4>Backend layer</h4>
 
 The backend layer is the bottom layer of the figure, which consists of the implementation of the various functions that are necessary for plotting. There are three essential classes from the backend layer FigureCanvas(The surface on which the figure will be drawn), Renderer(The class that takes care of the drawing on the surface), and Event(It handle the mouse and keyboard events).
 
