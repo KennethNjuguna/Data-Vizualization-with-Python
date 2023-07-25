@@ -19,3 +19,6 @@ The artist layer is the second layer in the architecture. It is responsible for 
 # <h3>Scripting layer</h3>
 
 The scripting layer is the topmost layer on which most of our code will run. The methods in the scripting layer, almost automatically take care of the other layers, and all we need to care about is the current state (figure & subplot).
+
+![image](https://github.com/KennethNjuguna/Data-Vizualization-with-Python/assets/97665556/503c2632-2be1-4679-be17-ffcfac43f770)
+
